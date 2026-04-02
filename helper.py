@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import pandas as pd 
+import geopandas as gpd
 import colorcet as cc
 from infoviz.utils import set_rcParams
 
