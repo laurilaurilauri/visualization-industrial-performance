@@ -1,8 +1,7 @@
-# Information Visualization (CS-E4840), Aalto University, 2026
+# Information Visualization: SDG 9 and Industrial Performance
 
-Coursework for Aalto University's Information Visualization course. Every assignment
-explores **UN Sustainable Development Goal 9: Industry, Innovation and Infrastructure**,
-mainly through UNIDO's Competitive Industrial Performance (CIP) data. The same dataset
+A collection of information visualization projects. Every notebook explores
+**UN Sustainable Development Goal 9: Industry, Innovation and Infrastructure**, mainly through UNIDO's Competitive Industrial Performance (CIP) data. The same dataset
 is viewed from many angles, from simple time series to maps, clustermaps,
 dimensionality reduction and networks.
 
