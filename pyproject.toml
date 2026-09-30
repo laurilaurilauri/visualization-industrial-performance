@@ -1,7 +1,7 @@
 [project]
 name = "infoviz"
 version = "0.1.0"
-description = "Add your description here"
+description = "Information Visualization CS-E4840"
 authors = [
     { name = "lauriprudant", email = "prudant.lauri@gmail.com" }
 ]
